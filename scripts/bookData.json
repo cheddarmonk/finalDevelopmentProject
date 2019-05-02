@@ -1,0 +1,38 @@
+{
+    "book": [
+        {
+            "title": "The Hunger Games",
+            "release": "2008",
+            "cover": "http://www.suzannecollinsbooks.com/images/Hg--jacket-330.jpg",
+            "subComments":"Over Six Years on the New York Times Best Sellers List! (Ages 12 & up)"
+            
+     },
+        {
+            "title": "Catching Fire",
+            "release": "2009",
+            "cover": "http://www.suzannecollinsbooks.com/images/Catching_fire_c-330.jpg",
+            "subComments":"#1 USA Today Bestseller! (Ages 12 & up)"
+     },
+        {
+           "title": "Mockingjay",
+            "release": "2010",
+            "cover": "http://www.suzannecollinsbooks.com/images/Mockingjaycover-330.jpg",
+            "subComments":"#1 USA Today Bestseller! (Ages 12 & up)"
+            
+     },
+        {
+            "title": "The Hunger Games: Mockingjay",
+            "release": "2008",
+            "cover": "http://www.suzannecollinsbooks.com/images/Mockingjay-Movie-Tie-In-330.jpg",
+            "subComments": "Movie tie-in Edition now available."
+            
+     },
+        {
+            "title": "The Year of the Jungle",
+            "release": "2013",
+            "cover": "http://www.suzannecollinsbooks.com/images/YOTJ_Cover-330.jpg",
+            "subComments": "2013 Publishers weekley best books of the year!"
+            
+     }
+   ]
+}

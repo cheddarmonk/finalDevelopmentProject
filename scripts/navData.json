@@ -1,0 +1,28 @@
+{
+    "navData": [
+        {
+            "text": "Home",
+            "link": "http://www.suzannecollinsbooks.com/index.htm"
+                        
+     },
+        {
+            "text": "Works",
+            "link": "http://www.suzannecollinsbooks.com/works.htm"
+                        
+     },
+        {
+            "text": "Biography",
+            "link": "http://www.suzannecollinsbooks.com/bio.htm"
+                        
+     },
+        {
+            "text": "Interview",
+            "link": "http://www.suzannecollinsbooks.com/events.htm"
+                        
+     }
+        
+
+        
+        
+   ]
+}
