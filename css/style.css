@@ -58,17 +58,9 @@ h2 {
 .iFrame {
     margin: 0;
     padding-top: 150px;
-    height: 500px;
+    height: 100%;
     width: 100%;
     overflow: hidden;
-}
-
-.frameHolder {
-    height: 500px;
-    width: auto;
-    border-color: red;
-    border-style: solid;
-    border-width: 1px;
 }
 
 /*all pages content style style*/
